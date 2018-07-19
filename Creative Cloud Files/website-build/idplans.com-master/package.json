@@ -1,0 +1,19 @@
+{
+  "name": "nicklicata.com",
+  "version": "1.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.13.1",
+    "serve-favicon": "2.0.0",
+    "moment": "2.10.6",
+    "underscore": "1.8.3",
+    "body-parser": "1.13.2",
+    "morgan": "1.6.1",
+    "debug": "2.2.0",
+    "glob": "5.0.14",
+    "jwt-simple": "*"
+  },
+  "optionalDependencies": {
+    "lodash": "2.4.1"
+  }
+}
