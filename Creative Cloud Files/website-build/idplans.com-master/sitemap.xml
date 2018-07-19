@@ -1,0 +1,37 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com 
+-->
+    <url>
+        <loc>http://www.idplans.com/</loc>
+        <lastmod>2018-06-05T19:39:30+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>http://www.idplans.com/index.html</loc>
+        <lastmod>2018-06-05T19:39:30+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://www.idplans.com/about.html</loc>
+        <lastmod>2018-06-05T19:39:30+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>
+            http://www.idplans.com/remote-property-manager.html
+        </loc>
+        <lastmod>2018-06-07T14:16:29+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://www.idplans.com/space-profile.html</loc>
+        <lastmod>2018-06-05T19:39:32+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>http://www.idplans.com/contact.html</loc>
+        <lastmod>2018-06-05T19:39:30+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+</urlset>
